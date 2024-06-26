@@ -5,8 +5,8 @@ A Master student
 A chemist who interested in computational chemistry
 
 ## Skills
-Programming Languages: Python (Beginner)
-Tools & Methods: Git
+- Programming Languages: Python (Beginner)
+- Tools & Methods: Git
 
 ## Experience
 **Thammasat University**
