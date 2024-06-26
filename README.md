@@ -2,8 +2,6 @@
 A Master student | Portfolio: [NatthakitArtit.github.io](https://NatthakitArtit.github.io)
 
 ## Summary
-
-## Summary
 A chemist who interested in computational chemistry
 
 ## Skills
