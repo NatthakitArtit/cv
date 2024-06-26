@@ -18,3 +18,5 @@ A chemist who interested in computational chemistry
 Courses, activities, or other details
 
 *This website is created by Jelyll, hosted on Github*
+
+*Last updated: June 26, 2024*
