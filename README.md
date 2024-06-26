@@ -1,5 +1,7 @@
 # CV of Natthakit Singhanatkaisi
-My first website
+A Master student | Portfolio: [NatthakitArtit.github.io](https://NatthakitArtit.github.io)
+
+## Summary
 
 ## Summary
 A chemist who interested in computational chemistry
@@ -10,3 +12,5 @@ Tools & Methods: Git
 
 ## Experience
 **Thammasat University**
+- Dye Adsorption on Mesoporous Silica by Computational Study
+- Computational investigation of Nucleophilic Substitution Mechanism of Squaric acid 
