@@ -1,5 +1,5 @@
 # Natthakit Singhanatkaisi
-A Master student | Portfolio: [NatthakitArtit.github.io](https://NatthakitArtit.github.io)
+A Master student
 
 ## Summary
 A chemist who interested in computational chemistry
