@@ -1,4 +1,4 @@
-# CV of Natthakit Singhanatkaisi
+# Natthakit Singhanatkaisi
 A Master student | Portfolio: [NatthakitArtit.github.io](https://NatthakitArtit.github.io)
 
 ## Summary
